@@ -1,0 +1,3 @@
+Nilsson;Lars;u;g;vg;vg
+Svensson;Lena;vg;g;g;vg
+Jonsson;Jonas;g;g;vg;g
